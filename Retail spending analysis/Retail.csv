@@ -1,0 +1,11 @@
+﻿date,invoice_id,customer_id,product,category,quantity,price,store,payment_type
+1/1/25,INV001,CUST001,Milk,Dairy,2,45,Main Branch,UPI
+1/1/25,INV001,CUST001,Bread,Bakery,1,35,Main Branch,UPI
+1/2/25,INV002,CUST002,shampoo,Personal,1,180,City Mall outlet,Credit Card
+1/2/25,INV002,CUST002,soap,Personal,3,40,City Mall outlet,Credit Card
+1/3/25,INV003,CUST003,Chips,Snacks,4,20,Main Branch,Cash 
+1/3/25,INV003,CUST003,Coke,Beverages,2,45,Main Branch,Cash 
+1/4/25,INV004,CUST004,Paneer,Dairy,1,90,East side store,UPI
+1/4/25,INV004,CUST004,Butter,Dairy,1,55,East side store,UPI
+1/5/25,INV005,CUST005,Pasta ,Groceries,2,60,Main Branch,UPI
+1/5/25,INV005,CUST005,Cheese,Dairy,1,110,Main Branch,UPI
